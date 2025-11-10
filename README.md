@@ -1,4 +1,4 @@
-# Fate of the Emperor
+# Fate-of-the-Emperor
 
 A quick and fun Python script that randomly selects a **Warhammer 40K mission setup**
 
